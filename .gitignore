@@ -1,0 +1,24 @@
+
+# Dataset
+raw_kaggle_dataset/
+dataset/
+datasets/
+data/
+
+# Trained models
+models/
+*.keras
+*.h5
+*.weights.h5
+
+# Google credentials
+token.json
+credentials.json
+client_secret.json
+*.pem
+
+# Personal and temporary files
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
