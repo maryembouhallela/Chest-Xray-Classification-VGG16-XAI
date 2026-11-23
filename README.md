@@ -50,8 +50,6 @@ The project uses the following public dataset:
 
 The dataset contains posterior-anterior (PA) chest X-ray images belonging to three classes: COVID-19, Normal, and Pneumonia.
 
-Please refer to the original dataset page for its terms of use and citation requirements.
-
 ### Dataset preparation
 
 The original files were checked for readability and exact duplicates.
@@ -598,3 +596,4 @@ It also demonstrates how Grad-CAM and LIME can be used to inspect model predicti
 The combination of classification, evaluation, and explainability provides a more informative view of model behavior than classification accuracy alone.
 
 However, the limitations related to patient identifiers, dataset heterogeneity, generalization, and clinical validation must be considered when interpreting the results.
+
